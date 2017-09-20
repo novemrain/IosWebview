@@ -48,4 +48,10 @@
 }
 
 
+
++ (BOOL)allowsAnyHTTPSCertificateForHost:(NSString *)host
+{
+    return YES;
+}
 @end
+

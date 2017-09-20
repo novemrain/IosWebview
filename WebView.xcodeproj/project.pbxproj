@@ -207,6 +207,7 @@
 				TargetAttributes = {
 					04D6924F1F6EAB5100FCE9CE = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = T9AV7L8BJN;
 						ProvisioningStyle = Automatic;
 					};
 					04D692681F6EAB5100FCE9CE = {
@@ -426,6 +427,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = T9AV7L8BJN;
 				INFOPLIST_FILE = WebView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = reign.WebView;
@@ -437,6 +439,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = T9AV7L8BJN;
 				INFOPLIST_FILE = WebView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = reign.WebView;
